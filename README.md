@@ -1,11 +1,43 @@
-# Sample Snack app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+ ![image](https://github.com/howtrojan/filmesemcartaz/assets/147101575/1363de04-a62f-4a06-a4f0-d7bc134d816b)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# Projeto de Estudo: Requisições com React Native
+
+Este é um projeto de estudo desenvolvido para aprender sobre como fazer requisições em aplicativos móveis usando React Native.
+
+## Descrição
+
+O objetivo deste projeto é familiarizar-se com os conceitos fundamentais de requisições em aplicativos React Native, incluindo a integração com APIs externas, o gerenciamento de respostas e o processamento de dados.
+
+## Funcionalidades
+
+- Demonstração de como realizar requisições HTTP em aplicativos React Native.
+- Integração com uma API externa para recuperar dados dinâmicos.
+- Exibição e manipulação básica dos dados obtidos da API.
+
+## Tecnologias Utilizadas
+
+- React Native
+- Expo (opcional, dependendo da configuração do projeto)
+- JavaScript
+
+## Como Usar
+
+1. Clone este repositório para o seu ambiente local.
+2. Navegue até o diretório do projeto.
+3. Execute `npm install` para instalar as dependências.
+4. Inicie o projeto com o comando `npm start` ou `expo start`.
+5. Abra o aplicativo em um simulador ou em um dispositivo físico para ver a aplicação em funcionamento.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar uma solicitação de recebimento com sugestões, correções ou melhorias.
+
+## Autor
+
+André Santos Braga
+
+
